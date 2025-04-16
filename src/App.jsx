@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
 import Header from './components/Header';
-import Main from './components/main';
+import Main from './components/Main';
 import Modal from './components/Modal';
 import SupportModal from './components/SupportModal'; // use modal instead of routing to thank-you page
 
