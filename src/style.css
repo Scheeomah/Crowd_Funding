@@ -65,7 +65,7 @@ html, body {
 
 .header {
   width: 100%;
-  background: url('./images/image-hero-desktop.jpg') no-repeat;
+  background: url('/images/image-hero-desktop.jpg') no-repeat;
   height: 100vh;
 }
 
